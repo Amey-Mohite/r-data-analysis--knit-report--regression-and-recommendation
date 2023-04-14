@@ -1,0 +1,2 @@
+"0","ggplot(nba_team_statistics_2, aes(x=X3P, y=PTS)) +"
+"0","  geom_point()+ theme_dark()"

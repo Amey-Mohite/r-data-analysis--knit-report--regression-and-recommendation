@@ -1,0 +1,2 @@
+"0","    nba_player_salaries<-read.csv(""project-data/2018-19_nba_player-salaries.csv"")"
+"0","    head(hr_data)"
